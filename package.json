@@ -1,0 +1,21 @@
+{
+	"name": "com.yourcompany.yourapp",
+	"displayName": "TSX Theory",
+	"version": "0.0.1",
+	"description": "An Alpha Anywhere Cordova App",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"ecosystem:cordova"
+	],
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"cordova-android": "^8.1.0",
+		    "cordova-ios": "^5.1.1"
+	}
+}
+
+	
